@@ -81,5 +81,6 @@
 - Recall Low risk: 94%
 - 
 ## SUMMARY:
-- summary of the results (2 pt)
-- recommendation on which model to use, or there is no recommendation with a justification (3 pt)
+- 4 of the 6 models performed equally with regard to high and low risk precision.  The Easy Ensemble performed slightly better in the precision high risk, returning a rate of 6   6% and the balanced random performed significantly better with 56% (all models returned 100% with low risk precision).  
+- It was Easy Ensemble method with the overall best performance, with a significantly higher balanced accuracy rate (92%) than the other models.  Additionally the recall for     both high and low risk overall performed much better than the other models.  It would be myh recommendation to utilize the Easy Ensemble Adaboost Classifier method
+  for analysis of this dataset.
