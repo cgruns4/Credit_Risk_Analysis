@@ -12,6 +12,9 @@
 
 ![RandomMatrix](https://user-images.githubusercontent.com/71041680/121614190-2d298680-ca2c-11eb-95f9-1797836fc342.png)
 
+The balanced accuracy score is 65%
+Precison
+Recall Score
 
 
 - SMOTE Oversample Method
@@ -21,6 +24,11 @@
 
 ![SMOTEMatrix](https://user-images.githubusercontent.com/71041680/121614208-33b7fe00-ca2c-11eb-8845-266a6b3f9f85.png)
 
+The balanced accuracy score is 67%
+Precison
+Recall Score
+
+
 - Cluster Centroids Sample Method
 
 ![ClusterAccuracy](https://user-images.githubusercontent.com/71041680/121614212-36b2ee80-ca2c-11eb-8e22-2b21ad27c0fa.png)
@@ -28,6 +36,9 @@
 
 ![ClusterMatrix](https://user-images.githubusercontent.com/71041680/121614217-39154880-ca2c-11eb-9233-96e5a7d5e500.png)
 
+The balanced accuracy score is 67%
+Precison
+Recall Score
 
 
 - SMOTEEN Sample Method
@@ -37,12 +48,20 @@
 
 ![SMOTEENMatrix](https://user-images.githubusercontent.com/71041680/121614229-3dd9fc80-ca2c-11eb-9811-071f0b0004ed.png)
 
+The balanced accuracy score is 67%
+Precison
+Recall Score
+
 
 - Balanced Random Forest Classifier Method
 
 ![BalanceRandomAccuracy](https://user-images.githubusercontent.com/71041680/121614313-6a8e1400-ca2c-11eb-862c-476dbec82f6d.png)
 
 ![BalancedRandomMatrix](https://user-images.githubusercontent.com/71041680/121614320-6d890480-ca2c-11eb-85a9-05d40d277883.png)
+
+The balanced accuracy score is 65%
+Precison
+Recall Score
 
 
 - Easy Ensemble AdaBoost Classifier Method
@@ -51,9 +70,9 @@
 
 ![EEMatrix](https://user-images.githubusercontent.com/71041680/121614348-7548a900-ca2c-11eb-8a89-b07fd5a2803c.png)
 
-
-
-
+The balanced accuracy score is 92%
+Precison
+Recall Score
 
 ## Summary:
 -summary of the results (2 pt)
