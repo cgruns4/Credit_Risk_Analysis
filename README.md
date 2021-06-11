@@ -1,4 +1,4 @@
-# LENDINGCLUB CEDIT RISK ANALYSIS
+# LENDING CLUB CEDIT RISK ANALYSIS
 
 ## Overview of Risk Analysis:
  The purppose of our analysis is to apply machine learning to solve credit card risk from the LendingClub dataset.  I will be using several different 
