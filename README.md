@@ -12,45 +12,46 @@
 
 ![RandomMatrix](https://user-images.githubusercontent.com/71041680/121614190-2d298680-ca2c-11eb-95f9-1797836fc342.png)
 
-- The balanced accuracy score is 65%
-- Precison
-- Recall Score
+- Balanced Accuracy Score: 65%
+- Precison High Risk: 
+- Precision Low Risk: 
+- Recall High risk: 
 
 
 ### SMOTE Oversample Method
 
 ![SMOTEAccuracy](https://user-images.githubusercontent.com/71041680/121614201-30247700-ca2c-11eb-9207-d71ac76fb512.png)
 
-
 ![SMOTEMatrix](https://user-images.githubusercontent.com/71041680/121614208-33b7fe00-ca2c-11eb-8845-266a6b3f9f85.png)
 
-- The balanced accuracy score is 67%
-- Precison
-- Recall Score
+- Balanced Accuracy Score: 67%
+- Precison High Risk: 
+- Precision Low Risk: 
+- Recall High risk: 
 
 
 ### Cluster Centroids Sample Method
 
-![ClusterAccuracy](https://user-images.githubusercontent.com/71041680/121614212-36b2ee80-ca2c-11eb-8e22-2b21ad27c0fa.png)
+![ClusterAccuracy](https://user-images.githubusercontent.com/71041680/121615428-da050300-ca2e-11eb-88ef-7473af819e4c.png)
 
+![ClusterMatrix](https://user-images.githubusercontent.com/71041680/121615430-dbcec680-ca2e-11eb-89f2-3266f12af611.png)
 
-![ClusterMatrix](https://user-images.githubusercontent.com/71041680/121614217-39154880-ca2c-11eb-9233-96e5a7d5e500.png)
-
-- The balanced accuracy score is 67%
-- Precison
-- Recall Score
-
+- Balanced Accuracy Score: 58%
+- Precison High Risk: 
+- Precision Low Risk: 
+- Recall High risk: 
+- 
 
 ### SMOTEEN Sample Method
 
 ![SMOTEENAccuracy](https://user-images.githubusercontent.com/71041680/121614223-3b77a280-ca2c-11eb-9407-caa32dd4baf9.png)
 
-
 ![SMOTEENMatrix](https://user-images.githubusercontent.com/71041680/121614229-3dd9fc80-ca2c-11eb-9811-071f0b0004ed.png)
 
-- The balanced accuracy score is 67%
-- Precison
-- Recall Score
+- Balanced Accuracy Score: 67%
+- Precison High Risk: 
+- Precision Low Risk: 
+- Recall High risk: 
 
 
 ### Balanced Random Forest Classifier Method
@@ -59,9 +60,10 @@
 
 ![BalancedRandomMatrix](https://user-images.githubusercontent.com/71041680/121614320-6d890480-ca2c-11eb-85a9-05d40d277883.png)
 
-- The balanced accuracy score is 65%
-- Precison
-- Recall Score
+- Balanced Accuracy Score: 65%
+- Precison High Risk: 
+- Precision Low Risk: 
+- Recall High risk: 
 
 
 ### Easy Ensemble AdaBoost Classifier Method
@@ -70,9 +72,10 @@
 
 ![EEMatrix](https://user-images.githubusercontent.com/71041680/121614348-7548a900-ca2c-11eb-8a89-b07fd5a2803c.png)
 
-- The balanced accuracy score is 92%
-- Precison
-- Recall Score
+- Balanced Accuracy Score: 92%
+- Precison High Risk: 
+- Precision Low Risk: 
+- Recall High risk: 
 
 ## SUMMARY:
 - summary of the results (2 pt)
