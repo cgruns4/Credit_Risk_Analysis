@@ -13,9 +13,10 @@
 ![RandomMatrix](https://user-images.githubusercontent.com/71041680/121614190-2d298680-ca2c-11eb-95f9-1797836fc342.png)
 
 - Balanced Accuracy Score: 65%
-- Precison High Risk: 
-- Precision Low Risk: 
-- Recall High risk: 
+- Precison High Risk: 1%
+- Precision Low Risk: 100%
+- Recall High risk: 69%
+- Recall Low risk: 60%
 
 
 ### SMOTE Oversample Method
@@ -25,9 +26,10 @@
 ![SMOTEMatrix](https://user-images.githubusercontent.com/71041680/121614208-33b7fe00-ca2c-11eb-8845-266a6b3f9f85.png)
 
 - Balanced Accuracy Score: 67%
-- Precison High Risk: 
-- Precision Low Risk: 
-- Recall High risk: 
+- Precison High Risk: 1%
+- Precision Low Risk: 100%
+- Recall High risk: 71%
+- Recall Low risk: 63%
 
 
 ### Cluster Centroids Sample Method
@@ -37,10 +39,10 @@
 ![ClusterMatrix](https://user-images.githubusercontent.com/71041680/121615430-dbcec680-ca2e-11eb-89f2-3266f12af611.png)
 
 - Balanced Accuracy Score: 58%
-- Precison High Risk: 
-- Precision Low Risk: 
-- Recall High risk: 
-- 
+- Precison High Risk: 1%
+- Precision Low Risk: 100%
+- Recall High risk: 71%
+- Recall Low risk: 45%
 
 ### SMOTEEN Sample Method
 
@@ -49,10 +51,10 @@
 ![SMOTEENMatrix](https://user-images.githubusercontent.com/71041680/121614229-3dd9fc80-ca2c-11eb-9811-071f0b0004ed.png)
 
 - Balanced Accuracy Score: 67%
-- Precison High Risk: 
-- Precision Low Risk: 
-- Recall High risk: 
-
+- Precison High Risk: 1%
+- Precision Low Risk: 100%
+- Recall High risk: 72%
+- Recall Low risk: 61%
 
 ### Balanced Random Forest Classifier Method
 
@@ -61,10 +63,10 @@
 ![BalancedRandomMatrix](https://user-images.githubusercontent.com/71041680/121614320-6d890480-ca2c-11eb-85a9-05d40d277883.png)
 
 - Balanced Accuracy Score: 65%
-- Precison High Risk: 
-- Precision Low Risk: 
-- Recall High risk: 
-
+- Precison High Risk: 56%
+- Precision Low Risk: 100%
+- Recall High risk: 30%
+- Recall Low risk: 100%
 
 ### Easy Ensemble AdaBoost Classifier Method
 
@@ -73,10 +75,11 @@
 ![EEMatrix](https://user-images.githubusercontent.com/71041680/121614348-7548a900-ca2c-11eb-8a89-b07fd5a2803c.png)
 
 - Balanced Accuracy Score: 92%
-- Precison High Risk: 
-- Precision Low Risk: 
-- Recall High risk: 
-
+- Precison High Risk: 6%
+- Precision Low Risk: 100%
+- Recall High risk: 91%
+- Recall Low risk: 94%
+- 
 ## SUMMARY:
 - summary of the results (2 pt)
 - recommendation on which model to use, or there is no recommendation with a justification (3 pt)
